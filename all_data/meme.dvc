@@ -1,0 +1,6 @@
+outs:
+- md5: 9b6388d61d0c9de6cd2ba29cf2dd5d50.dir
+  size: 708702
+  nfiles: 1
+  hash: md5
+  path: meme
